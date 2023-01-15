@@ -231,6 +231,14 @@ span.post-name a,span.post-read-more a:hover {
 	line-height:1.8;
 	color:rgba(177, 177, 177, 0.8);
 }
+
+.article-post .h2{
+	font-family: 'Lexend Deca';
+	font-size:1.5rem;
+	line-height:2;
+	font-weight: 700;
+	color:rgba(216, 216, 216, 0.8);
+}
 blockquote {
 	border-left:4px solid #ff0062;
 	padding:0 20px;
